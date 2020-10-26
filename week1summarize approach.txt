@@ -1,0 +1,19 @@
+The userlog.log file contains 50 users’ 5000 piece login/logout information and they are put randomly, has not any order. 
+
+For suspicious, irresponsible, glitch reports I will use the similarly format: 
+First, find 50 users’ email-ID, and all they dates users have logged in/out. (for loop, list, set)
+Then, create a nested dictionaries: 
+{user1id{{05-01:…}{05-02:…}…{05-31:…}}, user2id{{05-01:…}{05-02:…}…{05-31:…}}, user3id{{05-01:…}{05-02:…}…{05-31:…}}, ………… user50id{{05-01:…}{05-02:…}…{05-31:…}}}
+Then, put the each single line information(time, activity, server) from the 5000 lines to the corresponding dictionary as dictionary’s value.  (if condition)
+Then, sort each inner dictionary’s value by time.(sort)
+Then, analyze the dictionary’s value: 
+for suspicious: is login count > 5 or times’ index[0][1]=00/01/02/03/04, if it is print it out, also should count each user’s days for suspicious, total count=summation of each user days, write to suspicious_report file
+for irresponsibe: is dict.value log in count > log out count, if it is print it out, also should count each user’s days for irresponsible, total count=summation of each user days, write to irresponsible_report file
+for glitch: is dict.value log in count < log out count, if it is print it out, also should count each user’s days for glitch, total count=summation of each user days, write to glitch_report file
+
+For domain:
+First, find 50 users email id, using for loop,list->set
+Then, create a dictionary to count each domain name occurrence, using for loop,if-else, split(“@”)
+Then, print out the result, and write to domain_report file 
+
+

@@ -27,11 +27,8 @@ The report shows the total number of each users’ login and logout times in the
 ## Usernamestartletter: 
 arrange the 50 users’ names depends on the first letter of their name. The report shows the users have the same first letter and show their whole email id. 
 ## 3 different errors:
-### 1 
-I felt create and set a nested(two layer) dictionary is difficult, then I did some search and figured out I can do “dict1=dict.fromkeys(user_list,dict.fromkeys(date_list_sort))”, then add time, activity, and server information to the dict1[i][j].
-### 2 
-I felt set a dictionary for the domain name is a little bit hard, then I looked up my notes for dictionary lecture, got more familiar with counting with dictionaries and using the knowledge .split(“@”) which learned in string lecture. 
-### 3 
-Replicate some reports the same as the sample reports format is difficult. I tried my best to make my reports close similar to the example report. I used for loop, if condition, and update the string and cases count when the situation satisfices the condition
+1. I felt create and set a nested(two layer) dictionary is difficult, then I did some search and figured out I can do “dict1=dict.fromkeys(user_list,dict.fromkeys(date_list_sort))”, then add time, activity, and server information to the dict1[i][j].
+2. I felt set a dictionary for the domain name is a little bit hard, then I looked up my notes for dictionary lecture, got more familiar with counting with dictionaries and using the knowledge .split(“@”) which learned in string lecture. 
+3. Replicate some reports the same as the sample reports format is difficult. I tried my best to make my reports close similar to the example report. I used for loop, if condition, and update the string and cases count when the situation satisfices the condition
 
 

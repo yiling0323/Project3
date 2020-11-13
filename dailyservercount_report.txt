@@ -1,0 +1,33 @@
+=========================
+=== DailyServerCount  ===
+=========================
+2020-05-01	 mailserver.local: 57	 myworkstation.local: 56	 webserver.local: 52
+2020-05-02	 mailserver.local: 66	 myworkstation.local: 71	 webserver.local: 42
+2020-05-03	 mailserver.local: 59	 myworkstation.local: 56	 webserver.local: 60
+2020-05-04	 mailserver.local: 60	 myworkstation.local: 47	 webserver.local: 57
+2020-05-05	 mailserver.local: 57	 myworkstation.local: 47	 webserver.local: 62
+2020-05-06	 mailserver.local: 58	 myworkstation.local: 61	 webserver.local: 42
+2020-05-07	 mailserver.local: 46	 myworkstation.local: 43	 webserver.local: 53
+2020-05-08	 mailserver.local: 49	 myworkstation.local: 65	 webserver.local: 63
+2020-05-09	 mailserver.local: 49	 myworkstation.local: 45	 webserver.local: 54
+2020-05-10	 mailserver.local: 55	 myworkstation.local: 66	 webserver.local: 60
+2020-05-11	 mailserver.local: 44	 myworkstation.local: 65	 webserver.local: 57
+2020-05-12	 mailserver.local: 58	 myworkstation.local: 64	 webserver.local: 63
+2020-05-13	 mailserver.local: 60	 myworkstation.local: 63	 webserver.local: 56
+2020-05-14	 mailserver.local: 56	 myworkstation.local: 45	 webserver.local: 51
+2020-05-15	 mailserver.local: 50	 myworkstation.local: 49	 webserver.local: 53
+2020-05-16	 mailserver.local: 54	 myworkstation.local: 56	 webserver.local: 52
+2020-05-17	 mailserver.local: 49	 myworkstation.local: 55	 webserver.local: 56
+2020-05-18	 mailserver.local: 41	 myworkstation.local: 62	 webserver.local: 52
+2020-05-19	 mailserver.local: 46	 myworkstation.local: 52	 webserver.local: 57
+2020-05-20	 mailserver.local: 49	 myworkstation.local: 53	 webserver.local: 68
+2020-05-21	 mailserver.local: 70	 myworkstation.local: 55	 webserver.local: 64
+2020-05-22	 mailserver.local: 51	 myworkstation.local: 53	 webserver.local: 56
+2020-05-23	 mailserver.local: 46	 myworkstation.local: 62	 webserver.local: 54
+2020-05-24	 mailserver.local: 67	 myworkstation.local: 52	 webserver.local: 73
+2020-05-25	 mailserver.local: 55	 myworkstation.local: 50	 webserver.local: 51
+2020-05-26	 mailserver.local: 51	 myworkstation.local: 65	 webserver.local: 58
+2020-05-27	 mailserver.local: 58	 myworkstation.local: 52	 webserver.local: 53
+2020-05-28	 mailserver.local: 63	 myworkstation.local: 55	 webserver.local: 54
+2020-05-29	 mailserver.local: 45	 myworkstation.local: 62	 webserver.local: 53
+2020-05-30	 mailserver.local: 61	 myworkstation.local: 61	 webserver.local: 56

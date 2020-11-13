@@ -1,0 +1,33 @@
+=========================
+=== DailyActivityCount  ===
+=========================
+2020-05-01	 login count: 79	 logout count: 86
+2020-05-02	 login count: 91	 logout count: 88
+2020-05-03	 login count: 86	 logout count: 89
+2020-05-04	 login count: 85	 logout count: 79
+2020-05-05	 login count: 80	 logout count: 86
+2020-05-06	 login count: 90	 logout count: 71
+2020-05-07	 login count: 67	 logout count: 75
+2020-05-08	 login count: 95	 logout count: 82
+2020-05-09	 login count: 68	 logout count: 80
+2020-05-10	 login count: 83	 logout count: 98
+2020-05-11	 login count: 69	 logout count: 97
+2020-05-12	 login count: 88	 logout count: 97
+2020-05-13	 login count: 96	 logout count: 83
+2020-05-14	 login count: 82	 logout count: 70
+2020-05-15	 login count: 68	 logout count: 84
+2020-05-16	 login count: 72	 logout count: 90
+2020-05-17	 login count: 73	 logout count: 87
+2020-05-18	 login count: 74	 logout count: 81
+2020-05-19	 login count: 77	 logout count: 78
+2020-05-20	 login count: 95	 logout count: 75
+2020-05-21	 login count: 91	 logout count: 98
+2020-05-22	 login count: 74	 logout count: 86
+2020-05-23	 login count: 81	 logout count: 81
+2020-05-24	 login count: 88	 logout count: 104
+2020-05-25	 login count: 80	 logout count: 76
+2020-05-26	 login count: 83	 logout count: 91
+2020-05-27	 login count: 81	 logout count: 82
+2020-05-28	 login count: 84	 logout count: 88
+2020-05-29	 login count: 78	 logout count: 82
+2020-05-30	 login count: 89	 logout count: 89

@@ -1,0 +1,7 @@
+=========================
+=== ServerDistribution  ===
+=========================
+ mailserver.local: 1630
+ myworkstation.local: 1688
+ webserver.local: 1682
+ total: 5000

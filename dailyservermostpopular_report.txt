@@ -1,0 +1,32 @@
+=========================
+=== DailyServerMostPopular  ===
+=========================
+2020-05-01	 mailserver.local
+2020-05-02	 myworkstation.local
+2020-05-03	 webserver.local
+2020-05-04	 mailserver.local
+2020-05-05	 webserver.local
+2020-05-06	 myworkstation.local
+2020-05-07	 webserver.local
+2020-05-08	 myworkstation.local
+2020-05-09	 webserver.local
+2020-05-10	 myworkstation.local
+2020-05-11	 myworkstation.local
+2020-05-12	 myworkstation.local
+2020-05-13	 myworkstation.local
+2020-05-14	 mailserver.local
+2020-05-15	 webserver.local
+2020-05-16	 myworkstation.local
+2020-05-17	 webserver.local
+2020-05-18	 myworkstation.local
+2020-05-19	 webserver.local
+2020-05-20	 webserver.local
+2020-05-21	 mailserver.local
+2020-05-22	 webserver.local
+2020-05-23	 myworkstation.local
+2020-05-24	 webserver.local
+2020-05-25	 mailserver.local
+2020-05-26	 myworkstation.local
+2020-05-27	 mailserver.local
+2020-05-28	 mailserver.local
+2020-05-29	 myworkstation.local
